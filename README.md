@@ -19,8 +19,7 @@ function retrieves the relevant financial data from the dataset and generates a
 response.
 5. Output: The response is then returned to the frontend and displayed to the user
 in the web interface.
-# Predefined Queries: The Financial Chatbot can respond to the following predefined
-queries:
+# Predefined Queries: The Financial Chatbot can respond to the following predefined queries:
 1. Total Revenue: “What is the total revenue?”
 2. Net Income Change: "How has the net income changed?"
 3. Total Assets and Liabilities: "What are the total assets and liabilities?"
